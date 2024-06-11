@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Hosted Live
 
-Check out my Portfolio Live here
+Check out my Portfolio Live [here](https://shibu-singh.netlify.app/)
 
 ## 🌟 Acknowledgements
 
