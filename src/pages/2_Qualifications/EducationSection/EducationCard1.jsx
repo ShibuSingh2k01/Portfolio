@@ -5,7 +5,7 @@ const EducationCard1 = () => {
         <div className="flex flex-col">
           <div className="flex flex-col items-baseline justify-between px-4 pb-2 pt-4 lg:flex-row">
             <div className="text-xl font-semibold">
-              CArmy Public School, S.P Marg, Lucknow
+              Army Public School, S.P Marg, Lucknow
             </div>
             <div className="pt-2 font-semibold lg:pt-0">2014 - 2021</div>
           </div>
