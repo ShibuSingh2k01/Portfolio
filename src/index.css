@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: "Agustina";
+    font-style: normal;
+    font-weight: normal;
+    src: url("/fonts/Agustina.woff") format('woff')
+  }
+}
